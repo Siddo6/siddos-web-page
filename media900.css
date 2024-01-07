@@ -1,0 +1,93 @@
+@media screen and (max-width: 800px) {
+    .text {
+        font-size: 5vh;
+    }
+    .fa {
+      padding-right: 20px;
+    }
+    
+
+    .img3 {
+      display: none;
+    }
+  
+    .boxes {
+      justify-self: center;
+      place-content: center;
+      gap: 0.5vh;
+      max-width: 45vh;
+      height: fit-content;
+      margin-right: 0vh;
+      margin-top: 1vh;
+    }
+  
+    .a1 {
+      font-size: 1.7rem;
+      margin-top: 1vh;
+    }
+  
+    .section1 {
+      height: 100vh;
+      display: grid;
+      justify-self: center;
+      margin-left: 0;
+    }
+
+    .d {
+      font-size: 2vh;
+    }
+
+    .about {
+      height: fit-content;
+    }
+
+  
+    .logo {
+      font-size: 17px;
+      padding-left: 20px;
+    }
+  
+    .hidden {
+      opacity: 1;
+    }
+  
+    .section2 {
+      height: fit-content;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .image-container {
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 12vh;
+        padding-left: 3vh;
+      }
+  
+    .avatar {
+      width: 40vh;
+      height: 40vh;
+    }
+     .skill {
+        padding: 0;
+     }
+    
+    .skills {
+      /* display: block; */
+      text-align: center;
+      font-size: 1.5vh;
+    }
+  
+    .left {
+      padding-left: 1vh;
+    }
+  
+    .right {
+      padding-left: 1vh;
+    }
+  }
+  
