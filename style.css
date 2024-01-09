@@ -21,7 +21,7 @@ nav {
 nav.fixed {
   position: fixed;
   top: 0; /* Fixed at the top */
-  width: 100%; /* Full width */
+  max-width: 100%; /* Full width */
   z-index: 1000; /* Adjust the z-index as needed */
 }
 
