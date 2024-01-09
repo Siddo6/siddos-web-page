@@ -74,12 +74,12 @@
     }
      .skill {
         padding: 8px;
+        font-size: 1.5vh;
      }
     
     .skills {
       /* display: block; */
       text-align: center;
-      font-size: 1.5vh;
     }
   
     .left {
