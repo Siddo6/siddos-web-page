@@ -73,21 +73,21 @@
       height: 40vh;
     }
      .skill {
-        padding: 8px;
-        font-size: 1.5vh;
+        font-size: 2vh;
      }
     
     .skills {
-      /* display: block; */
       text-align: center;
     }
   
     .left {
-      padding-left: 1vh;
+      padding-left: 2vh;
+      padding-right: 2vh;
     }
   
     .right {
-      padding-left: 1vh;
+       padding-left: 2vh;
+      padding-right: 2vh;
     }
   }
   
