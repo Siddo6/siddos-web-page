@@ -73,7 +73,8 @@
       height: 40vh;
     }
      .skill {
-        font-size: 2vh;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1.1rem;
      }
     
     .skills {
