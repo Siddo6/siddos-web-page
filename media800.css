@@ -1,0 +1,66 @@
+@media screen and (max-width: 800px) {
+    .text {
+        font-size: 5vw;
+        top: 40%;
+    }
+    .fa {
+      padding-right: 20px;
+    }
+    
+    .a {
+      animation: movedown2 1s ease-in;
+    }
+    
+    .b {
+      animation: moveup2 1s ease-in;
+    }
+  
+    .boxes {
+      justify-self: center;
+      place-content: center;
+      gap: 0.5vh;
+      max-width: 95vw;
+      height: fit-content;
+      margin-right: 0vh;
+      margin-top: 1vh;
+    }
+  
+    .a1 {
+      font-size: 2rem;
+      margin-top: 10px;
+    }
+  
+    .section1 {
+      display: grid;
+      justify-self: center;
+      margin-left: 0;
+    }
+
+    .d {
+      font-size: 1rem;
+    }
+
+    .about {
+      height: fit-content;
+      padding: 10px;
+    }
+  
+    .logo {
+      font-size: 17px;
+      padding-left: 20px;
+    }
+  
+    .avatar{
+      width: 45vh;
+      height: 45vh;
+    }
+
+    .left{
+      padding-top: 28rem;
+    }
+
+    .skill{
+      font-size: 1.1rem;
+    }
+  }
+  
